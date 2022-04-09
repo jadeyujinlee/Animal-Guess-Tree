@@ -1,0 +1,25 @@
+Is it a mammal?
+Y Does it have hooves? 
+N Is it a reptile? 
+YY Does it give milk? 
+YN Is it a carnivore? 
+YYY Cow 
+YYN Does it fly? 
+YYNY Appa 
+YYNN Horse 
+YNY Is it in the dog family? 
+YNN Does it live near water? 
+YNYY Dog 
+YNYN Is it a big cat?
+YNYNY Lion
+YNYNN Cat 
+YNNY Beaver 
+YNNN Does it eat bunny grass? 
+YNNNY Bunny 
+YNNNN Mouse 
+NY Does it have a shell? 
+NN Mosquito 
+NYY Is it slimy? 
+NYN Crocodile 
+NYYY Snail 
+NYYN Turtle 
